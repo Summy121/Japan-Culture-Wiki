@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-22",
+  "validation_type": "structural and content consistency (not browser UI test)",
+  "results": {
+    "sources_count_8": true,
+    "articles_count_10": true,
+    "categories_count_5": true,
+    "source_refs_valid": true,
+    "related_refs_valid": true,
+    "quiz_answer_valid": true,
+    "8_slides": true,
+    "html_has_navigation": true,
+    "source_urls": true,
+    "wiki_files_exist": true
+  },
+  "all_passed": true,
+  "external_agent_ingest": false,
+  "browser_visual_test": false
+}
